@@ -4,6 +4,9 @@ Station Hub is the core infrastructure for your Amateur Radio network. It wraps 
 
 Instead of writing complex rig control logic into every app you build, simply connect your apps to the Station Hub over TCP/IP or WebSockets.
 
+> [!NOTE]
+> **Not a programmer?** Read our [Step-by-Step Installation Guide for Beginners](INSTALLATION_GUIDE.md)!
+
 ## Installation
 
 To set up the Station Hub on a new computer, you don't need to be a programmer!
