@@ -1,0 +1,13 @@
+{
+    "in_dev": 1,
+    "out_dev": 12,
+    "legacy_port": 7373,
+    "legacy_enabled": true,
+    "yar1_port": 7374,
+    "yar1_enabled": true,
+    "api_port": 7375,
+    "api_enabled": true,
+    "bind_address": "0.0.0.0",
+    "rig_host": "127.0.0.1",
+    "rig_port": 4532
+}

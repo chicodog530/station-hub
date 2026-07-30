@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# Windows/IDE
+.idea/
+.vscode/
+*.swp
+*.bak
+*~
+
+# Android ignores
+android/ssb-walkie/.gradle/
+android/ssb-walkie/build/
+android/ssb-walkie/app/build/
+android/ssb-walkie/local.properties
