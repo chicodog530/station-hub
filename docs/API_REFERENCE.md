@@ -73,7 +73,7 @@ Send these JSON packets to control the radio:
 ```
 
 ### Push-to-Talk (PTT) Sequence
-To initiate transmission, you must request PTT ON, and then send a `ptt_keepalive` packet every 200ms. If the Hub does not receive a keepalive for 1 second, it automatically drops TX to prevent stuck transmitters.
+To initiate transmission, you must request PTT ON, and then send a `ptt_keepalive` packet every 200ms. If the Hub does not receive a keepalive for 0.5 seconds, it automatically drops TX to prevent stuck transmitters.
 
 ```json
 {
