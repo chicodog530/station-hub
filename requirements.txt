@@ -1,4 +1,4 @@
-﻿websockets
+websockets
 psutil
 pyserial
 sounddevice
